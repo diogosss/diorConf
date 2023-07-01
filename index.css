@@ -41,6 +41,15 @@
   z-index: 1;
 }
 
+#place-time {
+  background-color: #343a40;
+  color: white;
+}
+
+#place-time img{
+  max-width: 100%;
+}
+
 #carousel .overlay .container,
 #carousel .overlay .row{
   height: 100%;
